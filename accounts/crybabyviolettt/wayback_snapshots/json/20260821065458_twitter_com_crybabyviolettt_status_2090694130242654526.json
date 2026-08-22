@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2088564416350748672",
+    "conversation_id": "2090348784467558434",
+    "created_at": "2026-08-21T06:54:58.000Z",
+    "display_text_range": [
+      37,
+      89
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T07:54:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090694130242654526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1692047356034953216",
+          "start": 0,
+          "username": "Acriley_zc"
+        },
+        {
+          "end": 20,
+          "id": "2267124525",
+          "start": 12,
+          "username": "ACzymay"
+        },
+        {
+          "end": 36,
+          "id": "1918274202580467713",
+          "start": 21,
+          "username": "CyberKanjousen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090694130242654526",
+    "in_reply_to_user_id": "1692047356034953216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090382786385551774",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Acriley_zc @ACzymay @CyberKanjousen 额所以你主页白丝臭脚啥意思？你也知道这是🈶性暗示的吧，你为什么不自爱呢？为什么要在网上卖弄自己的身体呢？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2088564416350748672",
+        "conversation_id": "2090348784467558434",
+        "created_at": "2026-08-21T06:54:58.000Z",
+        "display_text_range": [
+          37,
+          89
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T07:54:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090694130242654526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1692047356034953216",
+              "start": 0,
+              "username": "Acriley_zc"
+            },
+            {
+              "end": 20,
+              "id": "2267124525",
+              "start": 12,
+              "username": "ACzymay"
+            },
+            {
+              "end": 36,
+              "id": "1918274202580467713",
+              "start": 21,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090694130242654526",
+        "in_reply_to_user_id": "1692047356034953216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090382786385551774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Acriley_zc @ACzymay @CyberKanjousen 额所以你主页白丝臭脚啥意思？你也知道这是🈶性暗示的吧，你为什么不自爱呢？为什么要在网上卖弄自己的身体呢？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692047356034953216",
+        "conversation_id": "2090348784467558434",
+        "created_at": "2026-08-20T10:17:48.000Z",
+        "display_text_range": [
+          25,
+          170
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T11:17:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090382786385551774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2267124525",
+              "start": 0,
+              "username": "ACzymay"
+            },
+            {
+              "end": 24,
+              "id": "1918274202580467713",
+              "start": 9,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090382786385551774",
+        "in_reply_to_user_id": "2267124525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "无语，，，帽子还挺会扣。首先，你混淆了所谓“人道底线尊重”与“评价性敬意”。底线尊重是出于人道，而我对她的“尊不尊重”，属于评价性敬意，必须建立在个体的自律与自爱之上，这一点是最基本的伦理学常识，你总不能这点都不明白吧。你把我对于她自毁行为的道德评估强行扣上“诉诸人身”和“受害者有罪论”的帽子，一方面，这是对学术术语的滥用，另一方面，也是对于个体行为主体性的剥夺。别在这卖弄你那半斤八两的东西了，一边玩去吧👋"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1374,
+          "like_count": 28,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090373864605839579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ACzymay @CyberKanjousen 无语，，，帽子还挺会扣。首先，你混淆了所谓“人道底线尊重”与“评价性敬意”。底线尊重是出于人道，而我对她的“尊不尊重”，属于评价性敬意，必须建立在个体的自律与自爱之上，这一点是最基本的伦理学常识，你总不能这点都不明白吧。你把我对于她自毁行为的道德评估强行扣上“诉诸人身”和“受害者有罪论”的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-15T09:54:54.000Z",
+        "description": "我是小蛇2.0，前世被奸人所害，寻回互关ing……",
+        "id": "2088564416350748672",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090694130242654526",
+        "name": "亲爱的我饱含杀意",
+        "pinned_tweet_id": "2089288984325398834",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088564416350748672/1786787930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088565416641855488/wECTnlcY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 105,
+          "like_count": 73,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 8
+        },
+        "url": "",
+        "username": "crybabyviolettt",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-17T05:35:11.000Z",
+        "description": "雨は気まぐれ。/性别♂，取向女，东方project，galgame萌新，单机游戏爱好者，喜欢摇滚乐，软工在读，轻度cosplay，目前修行中......（不接受涩涩谢谢）",
+        "id": "1692047356034953216",
+        "is_identity_verified": false,
+        "location": "新琦玉",
+        "most_recent_tweet_id": "2090670971686650323",
+        "name": "無主物",
+        "pinned_tweet_id": "2084907482410099098",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1692047356034953216/1779720820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070421514869166080/pSfnOVfU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 820,
+          "following_count": 282,
+          "like_count": 11952,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 2710
+        },
+        "url": "",
+        "username": "Acriley_zc",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-01-07T15:45:21.000Z",
+        "description": "全世界无产者，联合起来\n本人爱狗人士",
+        "id": "2267124525",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090666804922220896",
+        "name": "辩证唯物主义",
+        "pinned_tweet_id": "2071771187730899399",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067643506965745664/M0qEsHNz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 31,
+          "like_count": 626,
+          "listed_count": 2,
+          "media_count": 111,
+          "tweet_count": 1188
+        },
+        "url": "",
+        "username": "ACzymay",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨但永不翻车 | 想当猫猫\n日语号：@NihonKanjousen\n给我钱：https://t.co/Rib36J6yzI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 45,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/cyberkanjousen",
+                "end": 88,
+                "expanded_url": "https://buymeacoffee.com/cyberkanjousen",
+                "start": 65,
+                "url": "https://t.co/Rib36J6yzI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2090690286053908800",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1918274202580467713/1787143538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16106,
+          "following_count": 879,
+          "like_count": 34164,
+          "listed_count": 24,
+          "media_count": 2738,
+          "tweet_count": 12582
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
