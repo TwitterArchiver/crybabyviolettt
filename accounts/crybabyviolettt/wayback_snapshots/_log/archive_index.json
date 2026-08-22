@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-22T11:49:54",
+  "last_updated": "2026-08-22T11:50:08",
   "html": {
     "https://web.archive.org/web/20260821065458if_/https://twitter.com/crybabyviolettt/status/2090694130242654526": {
       "status": "done",
@@ -26,10 +26,11 @@
   "images": {},
   "videos": {
     "https://video.twimg.com/amplify_video/2088782828620144640/vid/avc1/1008x720/bcO41PhFxYuPWvEK.mp4": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260821041609_twitter_com_crybabyviolettt_status_2090654161046241785.json"
-      ]
+      ],
+      "last_updated": "2026-08-22T11:50:08"
     }
   },
   "avatars": {
@@ -84,7 +85,7 @@
           "https://pbs.twimg.com/profile_images/2088565416641855488/wECTnlcY_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-22T11:49:54"
+      "last_updated": "2026-08-22T11:50:07"
     },
     "20260820005322_twitter_com_crybabyviolettt_status_2090240740685463817.json": {
       "status": "unknown",
@@ -95,7 +96,7 @@
           "https://pbs.twimg.com/profile_images/2088565416641855488/wECTnlcY_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-22T11:49:54"
+      "last_updated": "2026-08-22T11:50:07"
     },
     "20260821041408_twitter_com_crybabyviolettt_status_2090653654814708209.json": {
       "status": "unknown",
@@ -107,7 +108,7 @@
           "https://pbs.twimg.com/profile_images/2088885133382389760/dcM5q8EX_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-22T11:49:54"
+      "last_updated": "2026-08-22T11:50:07"
     },
     "20260821041609_twitter_com_crybabyviolettt_status_2090654161046241785.json": {
       "status": "unknown",
@@ -121,7 +122,7 @@
           "https://pbs.twimg.com/profile_images/2074139906067120128/p64yy8Hx_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-22T11:49:54"
+      "last_updated": "2026-08-22T11:50:08"
     },
     "20260821065458_twitter_com_crybabyviolettt_status_2090694130242654526.json": {
       "status": "unknown",
@@ -135,7 +136,7 @@
           "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png"
         ]
       },
-      "last_updated": "2026-08-22T11:49:54"
+      "last_updated": "2026-08-22T11:50:07"
     }
   }
 }
