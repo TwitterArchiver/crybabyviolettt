@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2088564416350748672",
+    "conversation_id": "2090888035395424689",
+    "created_at": "2026-08-21T19:45:29.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T20:45:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090888038239072453"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2090888038239072453",
+    "in_reply_to_user_id": "2088564416350748672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090888035395424689",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我特么穷的要死从小到大穿的衣服全是十几二十的t恤，要么就是天太热会穿短袖修身的，我露什么了？露肤度只到锁骨，以及大臂以外，肚挤眼都没露，这件事我记了很久，人格尊严因为胆小恐惧被摧毁的感觉让我至今无法再学会怎么反击暴力，我很理解那个女生，我现在唯一会的也只是玉石俱焚，逼我那就一起死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2088564416350748672",
+        "conversation_id": "2090888035395424689",
+        "created_at": "2026-08-21T19:45:29.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T20:45:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090888038239072453"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090888038239072453",
+        "in_reply_to_user_id": "2088564416350748672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090888035395424689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我特么穷的要死从小到大穿的衣服全是十几二十的t恤，要么就是天太热会穿短袖修身的，我露什么了？露肤度只到锁骨，以及大臂以外，肚挤眼都没露，这件事我记了很久，人格尊严因为胆小恐惧被摧毁的感觉让我至今无法再学会怎么反击暴力，我很理解那个女生，我现在唯一会的也只是玉石俱焚，逼我那就一起死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2088564416350748672",
+        "conversation_id": "2090888035395424689",
+        "created_at": "2026-08-21T19:45:29.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T20:45:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090888035395424689"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090888035395424689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "山东青岛那个视频看的我好难受……我以前非常胆小，也经历过类似的上对下围堵，我从小都是0存在感边缘透明人，班级里有几个混混男生羞辱我说我胸真大然后把我围起来对我做抱胸抖动的性暗示动作，我骂回去他们不要脸然后他们在教室里骂我是慰安妇是生给我爹当飞机杯的，说我是故意穿这么骚，好特么痛"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-15T09:54:54.000Z",
+        "description": "我是小蛇2.0，前世被奸人所害，寻回互关ing……",
+        "id": "2088564416350748672",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090888038239072453",
+        "name": "亲爱的我饱含杀意",
+        "pinned_tweet_id": "2089288984325398834",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088564416350748672/1786787930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088565416641855488/wECTnlcY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 117,
+          "like_count": 95,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 13
+        },
+        "url": "",
+        "username": "crybabyviolettt",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
