@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-26T14:46:23",
+  "last_updated": "2026-08-26T14:46:39",
   "html": {
     "https://web.archive.org/web/20260821065458if_/https://twitter.com/crybabyviolettt/status/2090694130242654526": {
       "status": "done",
@@ -158,40 +158,46 @@
       "last_updated": "2026-08-22T11:50:22"
     },
     "https://pbs.twimg.com/profile_images/1983668137922064384/aKdXx6yC_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260821143555_twitter_com_crybabyviolettt_status_2090810131240178078.json"
-      ]
+      ],
+      "last_updated": "2026-08-26T14:46:38"
     },
     "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260821143751_twitter_com_crybabyviolettt_status_2090810619905835459.json"
-      ]
+      ],
+      "last_updated": "2026-08-26T14:46:38"
     },
     "https://pbs.twimg.com/profile_images/2085407890526048256/ZC5ecfQx_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260821144506_twitter_com_crybabyviolettt_status_2090812442716811516.json"
-      ]
+      ],
+      "last_updated": "2026-08-26T14:46:38"
     },
     "https://pbs.twimg.com/profile_images/2090816514471735296/XNKIvR0U_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260821221621_twitter_com_crybabyviolettt_status_2090926005208953251.json"
-      ]
+      ],
+      "last_updated": "2026-08-26T14:46:38"
     },
     "https://pbs.twimg.com/profile_images/2091083541866336257/TSlO_YLF_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260822151020_twitter_com_crybabyviolettt_status_2091181181698199722.json"
-      ]
+      ],
+      "last_updated": "2026-08-26T14:46:39"
     },
     "https://pbs.twimg.com/profile_images/2091414027595550720/y_KcLi3i_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260824134454_twitter_com_crybabyviolettt_status_2091884456596627662.json"
-      ]
+      ],
+      "last_updated": "2026-08-26T14:46:38"
     }
   },
   "media": {
@@ -258,7 +264,7 @@
       "last_updated": "2026-08-22T11:50:22"
     },
     "20260821143555_twitter_com_crybabyviolettt_status_2090810131240178078.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -267,10 +273,10 @@
           "https://pbs.twimg.com/profile_images/1983668137922064384/aKdXx6yC_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:46:23"
+      "last_updated": "2026-08-26T14:46:38"
     },
     "20260821143751_twitter_com_crybabyviolettt_status_2090810619905835459.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -279,10 +285,10 @@
           "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:46:23"
+      "last_updated": "2026-08-26T14:46:38"
     },
     "20260821144506_twitter_com_crybabyviolettt_status_2090812442716811516.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -291,7 +297,7 @@
           "https://pbs.twimg.com/profile_images/2085407890526048256/ZC5ecfQx_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:46:23"
+      "last_updated": "2026-08-26T14:46:39"
     },
     "20260821194529_twitter_com_crybabyviolettt_status_2090888035395424689.json": {
       "status": "done",
@@ -316,7 +322,7 @@
       "last_updated": "2026-08-26T14:46:08"
     },
     "20260821221621_twitter_com_crybabyviolettt_status_2090926005208953251.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -327,7 +333,7 @@
           "https://pbs.twimg.com/profile_images/2090816514471735296/XNKIvR0U_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:46:23"
+      "last_updated": "2026-08-26T14:46:39"
     },
     "20260821222732_twitter_com_crybabyviolettt_status_2090928817535951221.json": {
       "status": "done",
@@ -352,7 +358,7 @@
       "last_updated": "2026-08-26T14:46:08"
     },
     "20260822151020_twitter_com_crybabyviolettt_status_2091181181698199722.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -361,7 +367,7 @@
           "https://pbs.twimg.com/profile_images/2091083541866336257/TSlO_YLF_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:46:23"
+      "last_updated": "2026-08-26T14:46:39"
     },
     "20260823181952_twitter_com_crybabyviolettt_status_2091591268224921617.json": {
       "status": "done",
@@ -375,7 +381,7 @@
       "last_updated": "2026-08-26T14:46:08"
     },
     "20260824134454_twitter_com_crybabyviolettt_status_2091884456596627662.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HQcW1UWbYAAAfH4.jpg",
@@ -387,7 +393,7 @@
           "https://pbs.twimg.com/profile_images/2091414027595550720/y_KcLi3i_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:46:23"
+      "last_updated": "2026-08-26T14:46:39"
     }
   }
 }
