@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-26T14:46:09",
+  "last_updated": "2026-08-26T14:46:23",
   "html": {
     "https://web.archive.org/web/20260821065458if_/https://twitter.com/crybabyviolettt/status/2090694130242654526": {
       "status": "done",
@@ -92,10 +92,11 @@
       "last_updated": "2026-08-22T11:50:08"
     },
     "https://video.twimg.com/tweet_video/HQRlKt2aEAAGx5q.mp4": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260821221621_twitter_com_crybabyviolettt_status_2090926005208953251.json"
-      ]
+      ],
+      "last_updated": "2026-08-26T14:46:23"
     }
   },
   "avatars": {
@@ -266,7 +267,7 @@
           "https://pbs.twimg.com/profile_images/1983668137922064384/aKdXx6yC_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:46:08"
+      "last_updated": "2026-08-26T14:46:23"
     },
     "20260821143751_twitter_com_crybabyviolettt_status_2090810619905835459.json": {
       "status": "unknown",
@@ -278,7 +279,7 @@
           "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:46:08"
+      "last_updated": "2026-08-26T14:46:23"
     },
     "20260821144506_twitter_com_crybabyviolettt_status_2090812442716811516.json": {
       "status": "unknown",
@@ -290,7 +291,7 @@
           "https://pbs.twimg.com/profile_images/2085407890526048256/ZC5ecfQx_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:46:08"
+      "last_updated": "2026-08-26T14:46:23"
     },
     "20260821194529_twitter_com_crybabyviolettt_status_2090888035395424689.json": {
       "status": "done",
@@ -326,7 +327,7 @@
           "https://pbs.twimg.com/profile_images/2090816514471735296/XNKIvR0U_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:46:08"
+      "last_updated": "2026-08-26T14:46:23"
     },
     "20260821222732_twitter_com_crybabyviolettt_status_2090928817535951221.json": {
       "status": "done",
@@ -360,7 +361,7 @@
           "https://pbs.twimg.com/profile_images/2091083541866336257/TSlO_YLF_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:46:08"
+      "last_updated": "2026-08-26T14:46:23"
     },
     "20260823181952_twitter_com_crybabyviolettt_status_2091591268224921617.json": {
       "status": "done",
@@ -386,7 +387,7 @@
           "https://pbs.twimg.com/profile_images/2091414027595550720/y_KcLi3i_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T14:46:09"
+      "last_updated": "2026-08-26T14:46:23"
     }
   }
 }
