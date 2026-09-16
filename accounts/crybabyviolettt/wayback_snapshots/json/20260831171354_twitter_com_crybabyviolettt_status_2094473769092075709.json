@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2088564416350748672",
+    "conversation_id": "2094276078441570373",
+    "created_at": "2026-08-31T17:13:54.000Z",
+    "display_text_range": [
+      13,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T18:13:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094473769092075709"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1947765957658873860",
+          "start": 0,
+          "username": "AGZlove8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094473769092075709",
+    "in_reply_to_user_id": "1947765957658873860",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094276078441570373",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AGZlove8964 居然还是学生妹欧米茄，惜别！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2088564416350748672",
+        "conversation_id": "2094276078441570373",
+        "created_at": "2026-08-31T17:13:54.000Z",
+        "display_text_range": [
+          13,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T18:13:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094473769092075709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1947765957658873860",
+              "start": 0,
+              "username": "AGZlove8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094473769092075709",
+        "in_reply_to_user_id": "1947765957658873860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094276078441570373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AGZlove8964 居然还是学生妹欧米茄，惜别！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1947765957658873860",
+        "conversation_id": "2094276078441570373",
+        "created_at": "2026-08-31T04:08:21.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T05:08:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094276078441570373"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094276078441570373",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 654,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上学上推次数会减少但是每天都会看消息，放假的时候会开space跟大家聊天，只求你们别忘了我，惜别！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-15T09:54:54.000Z",
+        "description": "我是小蛇2.0，推文是日记本，前世被奸人所害，寻回互关ing……",
+        "id": "2088564416350748672",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094473769092075709",
+        "name": "亲爱的我饱含杀意",
+        "pinned_tweet_id": "2089288984325398834",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088564416350748672/1786787930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088565416641855488/wECTnlcY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 130,
+          "like_count": 152,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 28
+        },
+        "url": "",
+        "username": "crybabyviolettt",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-22T21:09:43.000Z",
+        "description": "🚪89.64 用于国家有难时刻捐款\n小号@dkcy1109\n匿名箱：",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "dkcy1109"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/agzlove8964/clo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/agzlove8964/clo",
+                "start": 0,
+                "url": "https://t.co/4wZOTqRuIc"
+              }
+            ]
+          }
+        },
+        "id": "1947765957658873860",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094425261446148541",
+        "name": "爱国者8964 🇹🇼",
+        "pinned_tweet_id": "2094276078441570373",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1947765957658873860/1786731135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088197181895536640/pyp-2zYg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 173,
+          "like_count": 3140,
+          "listed_count": 5,
+          "media_count": 64,
+          "tweet_count": 2055
+        },
+        "url": "https://t.co/4wZOTqRuIc",
+        "username": "AGZlove8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

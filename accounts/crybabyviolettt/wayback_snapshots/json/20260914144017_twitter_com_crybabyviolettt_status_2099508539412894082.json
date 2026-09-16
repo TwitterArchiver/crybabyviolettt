@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2088564416350748672",
+    "conversation_id": "2099046611058139429",
+    "created_at": "2026-09-14T14:40:17.000Z",
+    "display_text_range": [
+      13,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T15:40:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099508539412894082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1947765957658873860",
+          "start": 0,
+          "username": "AGZlove8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099508539412894082",
+    "in_reply_to_user_id": "1947765957658873860",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099046611058139429",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@AGZlove8964 感觉私底下用的头像是那个惹事业主一家三口"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 989,
+        "media_key": "3_2099046599762870273",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSFPwuHbgAE8SjP.jpg",
+        "width": 1236
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2088564416350748672",
+        "conversation_id": "2099046611058139429",
+        "created_at": "2026-09-14T14:40:17.000Z",
+        "display_text_range": [
+          13,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T15:40:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099508539412894082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1947765957658873860",
+              "start": 0,
+              "username": "AGZlove8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099508539412894082",
+        "in_reply_to_user_id": "1947765957658873860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099046611058139429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@AGZlove8964 感觉私底下用的头像是那个惹事业主一家三口"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099046599762870273"
+          ]
+        },
+        "author_id": "1947765957658873860",
+        "conversation_id": "2099046611058139429",
+        "created_at": "2026-09-13T08:04:45.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T09:04:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099046611058139429"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OldCRz1Net",
+              "end": 30,
+              "expanded_url": "https://x.com/AGZlove8964/status/2099046611058139429/photo/1",
+              "media_key": "3_2099046599762870273",
+              "start": 7,
+              "url": "https://t.co/OldCRz1Net"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099046611058139429",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099046599762870273"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 100,
+          "impression_count": 290187,
+          "like_count": 539,
+          "quote_count": 4,
+          "reply_count": 7,
+          "retweet_count": 7
+        },
+        "reply_settings": "following",
+        "text": "这完全我爹妈 https://t.co/OldCRz1Net"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-15T09:54:54.000Z",
+        "description": "我是小蛇2.0，推文是日记本，前世被奸人所害，寻回互关ing……",
+        "id": "2088564416350748672",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099508539412894082",
+        "name": "亲爱的我饱含杀意",
+        "pinned_tweet_id": "2089288984325398834",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088564416350748672/1786787930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088565416641855488/wECTnlcY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 131,
+          "like_count": 215,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 41
+        },
+        "url": "",
+        "username": "crybabyviolettt",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-22T21:09:43.000Z",
+        "description": "反对中共暴政 | 顺直蝻钕屠杀计划 \n友除顺直之外一切群体\n你支持我 我尊重你\n\n小号@dkcy1109",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 43,
+                "username": "dkcy1109"
+              }
+            ]
+          }
+        },
+        "id": "1947765957658873860",
+        "is_identity_verified": false,
+        "location": "水晶棺",
+        "most_recent_tweet_id": "2099508515798962656",
+        "name": "爱国者8964 🇹🇼",
+        "pinned_tweet_id": "2098808410691231812",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1947765957658873860/1788514260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088197181895536640/pyp-2zYg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 190,
+          "like_count": 3564,
+          "listed_count": 5,
+          "media_count": 72,
+          "tweet_count": 2455
+        },
+        "url": "",
+        "username": "AGZlove8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
