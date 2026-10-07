@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2088564416350748672",
+    "conversation_id": "2100568298895323422",
+    "created_at": "2026-09-19T16:42:31.000Z",
+    "display_text_range": [
+      13,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T17:42:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101351240303345983"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1432351612182229001",
+          "start": 0,
+          "username": "Merlyn_Void"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101351240303345983",
+    "in_reply_to_user_id": "1432351612182229001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100568298895323422",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Merlyn_Void 肉桂女孩我听见了，仙品"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6012,
+        "height": 1920,
+        "media_key": "13_2100568264200052736",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2100568264200052736/img/3LWpu9KHM7xGn22t.jpg",
+        "public_metrics": {
+          "view_count": 3583
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100568264200052736/vid/avc1/720x1280/egziWSEoaLJKw92Q.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100568264200052736/vid/avc1/480x852/3DyY1TmIftSUep6F.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100568264200052736/vid/avc1/1080x1920/euVw-2rKO7LT0CEj.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2100568264200052736/pl/KutC-k0A4mb7BQAh.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100568264200052736/vid/avc1/320x568/NhIiK35qLmBC3GQA.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2088564416350748672",
+        "conversation_id": "2100568298895323422",
+        "created_at": "2026-09-19T16:42:31.000Z",
+        "display_text_range": [
+          13,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T17:42:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101351240303345983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1432351612182229001",
+              "start": 0,
+              "username": "Merlyn_Void"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101351240303345983",
+        "in_reply_to_user_id": "1432351612182229001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100568298895323422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Merlyn_Void 肉桂女孩我听见了，仙品"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2100568264200052736"
+          ]
+        },
+        "author_id": "1432351612182229001",
+        "conversation_id": "2100568298895323422",
+        "created_at": "2026-09-17T12:51:23.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T13:51:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100568298895323422"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5WDuzlC9jh",
+              "end": 36,
+              "expanded_url": "https://x.com/Merlyn_Void/status/2100568298895323422/video/1",
+              "media_key": "13_2100568264200052736",
+              "start": 13,
+              "url": "https://t.co/5WDuzlC9jh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100568298895323422",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2100568264200052736"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 7517,
+          "like_count": 220,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "还是很喜欢这个视频... https://t.co/5WDuzlC9jh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-15T09:54:54.000Z",
+        "description": "我是小蛇2.0，推文是日记本，前世被奸人所害，寻回互关ing……",
+        "id": "2088564416350748672",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101351240303345983",
+        "name": "亲爱的我饱含杀意",
+        "pinned_tweet_id": "2089288984325398834",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088564416350748672/1786787930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088565416641855488/wECTnlcY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 169,
+          "like_count": 258,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 55
+        },
+        "url": "",
+        "username": "crybabyviolettt",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-30T14:37:00.000Z",
+        "description": "Queer，顺直勿扰。\n喜欢的动物是信天翁\n@Merlyn27781069",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "Merlyn27781069"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/merlyn95513",
+                "end": 23,
+                "expanded_url": "https://ngl.link/merlyn95513",
+                "start": 0,
+                "url": "https://t.co/awjtFHq6Cw"
+              }
+            ]
+          }
+        },
+        "id": "1432351612182229001",
+        "is_identity_verified": false,
+        "location": "🚪288",
+        "most_recent_tweet_id": "2101351227556831301",
+        "name": "黄徵灏",
+        "pinned_tweet_id": "2049105797842665732",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1432351612182229001/1781599546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002420892949983232/XXFwiCyy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25823,
+          "following_count": 293,
+          "like_count": 17278,
+          "listed_count": 50,
+          "media_count": 286,
+          "tweet_count": 5591
+        },
+        "url": "https://t.co/awjtFHq6Cw",
+        "username": "Merlyn_Void",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

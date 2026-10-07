@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2088564416350748672",
+    "conversation_id": "2106693963436695579",
+    "created_at": "2026-10-04T10:32:36.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T11:32:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106693963436695579"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1857483338006802434",
+          "start": 3,
+          "username": "nininililily"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106693963436695579",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106541319900516648",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nininililily: 自介条\n🚪128/288/520可接线下纯绿（全部纯绿\n22年至今未飞升餐卷女\n我洗好很多很多钱呀  \n喜欢和大家做朋友呀\n双相/睡眠障碍/进食障碍\n喜欢和大家互动 看到帖子帮忙转转呀\n不是口令不会死心喵\n爸妈断供 球球各位哥哥们入门 我很好…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2106541311709118464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTvwKX0bgAA_nJO.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2106541311709097984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTvwKX0bMAAG0EB.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2088564416350748672",
+        "conversation_id": "2106693963436695579",
+        "created_at": "2026-10-04T10:32:36.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T11:32:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106693963436695579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1857483338006802434",
+              "start": 3,
+              "username": "nininililily"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106693963436695579",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106541319900516648",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nininililily: 自介条\n🚪128/288/520可接线下纯绿（全部纯绿\n22年至今未飞升餐卷女\n我洗好很多很多钱呀  \n喜欢和大家做朋友呀\n双相/睡眠障碍/进食障碍\n喜欢和大家互动 看到帖子帮忙转转呀\n不是口令不会死心喵\n爸妈断供 球球各位哥哥们入门 我很好…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106541311709118464",
+            "3_2106541311709097984"
+          ]
+        },
+        "author_id": "1857483338006802434",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2106541319900516648",
+        "created_at": "2026-10-04T00:26:02.000Z",
+        "display_text_range": [
+          0,
+          155
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T01:26:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106541319900516648"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VM4Lsd7xzj",
+              "end": 179,
+              "expanded_url": "https://x.com/nininililily/status/2106541319900516648/photo/1",
+              "media_key": "3_2106541311709118464",
+              "start": 156,
+              "url": "https://t.co/VM4Lsd7xzj"
+            },
+            {
+              "display_url": "pic.x.com/VM4Lsd7xzj",
+              "end": 179,
+              "expanded_url": "https://x.com/nininililily/status/2106541319900516648/photo/1",
+              "media_key": "3_2106541311709097984",
+              "start": 156,
+              "url": "https://t.co/VM4Lsd7xzj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106541319900516648",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106541311709118464"
+          },
+          {
+            "media_key": "3_2106541311709097984"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "自介条\n🚪128/288/520可接线下纯绿（全部纯绿\n22年至今未飞升餐卷女\n我洗好很多很多钱呀  \n喜欢和大家做朋友呀\n双相/睡眠障碍/进食障碍\n喜欢和大家互动 看到帖子帮忙转转呀\n不是口令不会死心喵\n爸妈断供 球球各位哥哥们入门 我很好说话的 我什么都可以聊一些呀\n药理/化学什么\n欢迎宝宝们互fo湖转喵\n放个赞赏吗 可以投喂迷惑哟\n因为迷惑是一只流浪猫\n求喂养"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1156,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "自介条\n🚪128/288/520可接线下纯绿（全部纯绿\n22年至今未飞升餐卷女\n我洗好很多很多钱呀  \n喜欢和大家做朋友呀\n双相/睡眠障碍/进食障碍\n喜欢和大家互动 看到帖子帮忙转转呀\n不是口令不会死心喵\n爸妈断供 球球各位哥哥们入门 我很好说话的 我什么都可以聊一些呀\n药理/化学什么\n欢迎宝宝们互fo湖转喵 https://t.co/VM4Lsd7xzj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-15T09:54:54.000Z",
+        "description": "我是小蛇2.0，推文是日记本，前世被奸人所害，寻回互关ing……",
+        "id": "2088564416350748672",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106693963436695579",
+        "name": "亲爱的我饱含杀意",
+        "pinned_tweet_id": "2089288984325398834",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088564416350748672/1786787930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088565416641855488/wECTnlcY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 192,
+          "like_count": 436,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 74
+        },
+        "url": "",
+        "username": "crybabyviolettt",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-15T17:58:47.000Z",
+        "description": "帝王正在建立她的王国\n黑夜 白昼 都是王的赐福\n🚪128/288/520可接线下纯绿（全部纯绿\n(˶‾᷄ ⁻̫ ‾᷅˵)。・°°・(＞_＜)・°°・。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/shaonvdijun001",
+                "end": 23,
+                "expanded_url": "https://t.me/shaonvdijun001",
+                "start": 0,
+                "url": "https://t.co/4gH07bGBEk"
+              }
+            ]
+          }
+        },
+        "id": "1857483338006802434",
+        "is_identity_verified": false,
+        "location": "Shibuya-ku, Tokyo",
+        "most_recent_tweet_id": "2106676682438672444",
+        "name": "めいわく",
+        "pinned_tweet_id": "2106541319900516648",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1857483338006802434/1790558625",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092909113906970624/zDMZcrt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 80,
+          "like_count": 478,
+          "listed_count": 0,
+          "media_count": 264,
+          "tweet_count": 804
+        },
+        "url": "https://t.co/4gH07bGBEk",
+        "username": "nininililily",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

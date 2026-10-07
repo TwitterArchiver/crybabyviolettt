@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2088564416350748672",
+    "conversation_id": "2100623652677124500",
+    "created_at": "2026-09-17T17:37:17.000Z",
+    "display_text_range": [
+      16,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T18:37:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100640248221044886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2086838732741885952",
+          "start": 0,
+          "username": "Ididnothinglqz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100640248221044886",
+    "in_reply_to_user_id": "2086838732741885952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100623652677124500",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ididnothinglqz 就这个我上次看完想转发不小心点返回找不到了后悔死了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 138201,
+        "height": 1280,
+        "media_key": "13_2093139959754694656",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2093139959754694656/img/kIuXpEm6P2Xy3igQ.jpg",
+        "public_metrics": {
+          "view_count": 8179655
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093139959754694656/vid/avc1/320x564/GK2DgCmibGkJlRq5.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093139959754694656/vid/avc1/480x848/z0AWdHVjSYJfdgTF.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093139959754694656/vid/avc1/724x1280/UFRdnag1kFB8MgBG.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2093139959754694656/pl/cAy0jzV4hLEbrYlL.m3u8"
+          }
+        ],
+        "width": 724
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2088564416350748672",
+        "conversation_id": "2100623652677124500",
+        "created_at": "2026-09-17T17:37:17.000Z",
+        "display_text_range": [
+          16,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T18:37:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100640248221044886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2086838732741885952",
+              "start": 0,
+              "username": "Ididnothinglqz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100640248221044886",
+        "in_reply_to_user_id": "2086838732741885952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100623652677124500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ididnothinglqz 就这个我上次看完想转发不小心点返回找不到了后悔死了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2093139959754694656"
+          ],
+          "media_source_tweet_id": [
+            "2093140032685289790"
+          ]
+        },
+        "author_id": "2086838732741885952",
+        "conversation_id": "2100623652677124500",
+        "created_at": "2026-09-17T16:31:21.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T17:31:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100623652677124500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k7B9pARDHp",
+              "end": 34,
+              "expanded_url": "https://x.com/hymanjuan4/status/2093140032685289790/video/1",
+              "media_key": "13_2093139959754694656",
+              "start": 11,
+              "url": "https://t.co/k7B9pARDHp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100623652677124500",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2093139959754694656"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 89,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们最爱的主体性来了 https://t.co/k7B9pARDHp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-08-15T09:54:54.000Z",
+        "description": "我是小蛇2.0，推文是日记本，前世被奸人所害，寻回互关ing……",
+        "id": "2088564416350748672",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100640248221044886",
+        "name": "亲爱的我饱含杀意",
+        "pinned_tweet_id": "2089288984325398834",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088564416350748672/1786787930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088565416641855488/wECTnlcY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 138,
+          "like_count": 236,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 44
+        },
+        "url": "",
+        "username": "crybabyviolettt",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-10T15:39:27.000Z",
+        "description": "昵称源于操蚂蚁龙 \n原则上可以和所有人沟通\n间歇炒作间歇呢喃间歇魔人\n友左友右友跨友同友女权友基督教，你包容我我包容你，原则上不ban少ban，新注册号除外看黄号除外魔人除外\n前世前前世昵称撒旦子民",
+        "id": "2086838732741885952",
+        "is_identity_verified": false,
+        "location": "美国菏泽曹县",
+        "most_recent_tweet_id": "2100631016012669288",
+        "name": "蚂蚁操龙8964",
+        "pinned_tweet_id": "2092575887237480786",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2086838732741885952/1786377026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089708250635935744/H9CfsHhV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1288,
+          "following_count": 416,
+          "like_count": 7495,
+          "listed_count": 0,
+          "media_count": 290,
+          "tweet_count": 3522
+        },
+        "url": "",
+        "username": "Ididnothinglqz",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
